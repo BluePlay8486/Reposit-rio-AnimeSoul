@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<itens>
-    <informações_dos_itens>
-        <title>Testando XML</title>
-        <gênero>Notícias</gênero>
-        <description>Esta é a string de descrição</description>
-        <miniatura>http://community-links.googlecode.com/svn/icons/news-icon.png</miniatura>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-        <data>04.01.2013</data>
-        <créditos>mula de mergulho, Johnny Cache</créditos>
-    </informações_dos_itens>
+<items>
+    <items_info>
+        <title>Lista de Séries</title>
+        <genre>Entretenimento</genre>
+        <description>Uma coleção de séries e animações disponíveis para visualização.</description>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/series-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/series-fanart.jpg</fanart>
+        <date>25.12.2024</date>
+        <credits>Curadoria por Usuário</credits>
+    </items_info>
     
     <item>
-        <title>POKÉMON TODAS AS TEMPORADAS</title>
-        <link>magnet:?xt=urn:btih:d39c707646cce93c5d9ee4b8ded13123b14a76ef&dn=Pokemon+Dublado+PTBR+Epi.+%5B001+-+559%5D&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&tr=udp%3A%2F%2Ftracker.istole.it%3A6969&tr=udp%3A%2F%2Ftracker.ccc.de%3A80&tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
-        <miniatura>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0MGaD4qjdZ40UTF0PwwiXG1WU0R1FRMPMeQN4M8Cwv4jIk53cKphWd-8PTf0nxqRVumQ0pZo2IwuTKheZCeBGvQiUotqMXj0PmqdK9Nc6oHd7DUW-CMH9566XAXqK0B_UPhjO5mHsd0J9Sstw87Wyumk3a0L6Ja36cMTvhbfqCdrHGfND6ZFLyzo5dyko/s1600/images.jpeg</miniatura>
-        <gênero>Animação</gênero>
-        <info>Teste de anime</info>
-        <data>08.02.2022</data>
-        <fanart>http://fanart.jpg</fanart>
+        <title>Pokémon Dublado PTBR Epi. [001 - 559]</title>
+        <link>magnet:?xt=urn:btih:d39c707646cce93c5d9ee4b8ded13123b14a76ef&amp;dn=Pokemon+Dublado+PTBR+Epi.+%5B001+-+559%5D&amp;tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&amp;tr=udp%3A%2F%2Ftracker.publicbt.com%3A80&amp;tr=udp%3A%2F%2Ftracker.istole.it%3A6969&amp;tr=udp%3A%2F%2Ftracker.ccc.de%3A80&amp;tr=udp%3A%2F%2Fopen.demonii.com%3A1337</link>
+        <thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0MGaD4qjdZ40UTF0PwwiXG1WU0R1FRMPMeQN4M8Cwv4jIk53cKphWd-8PTf0nxqRVumQ0pZo2IwuTKheZCeBGvQiUotqMXj0PmqdK9Nc6oHd7DUW-CMH9566XAXqK0B_UPhjO5mHsd0J9Sstw87Wyumk3a0L6Ja36cMTvhbfqCdrHGfND6ZFLyzo5dyko/s1600/images.jpeg</thumbnail>
+        <genre>Anime</genre>
+        <info>Todos os episódios de Pokémon dublados em português do Brasil, do 001 ao 559.</info>
+        <date>25.12.2024</date>
+        <fanart>https://upload.wikimedia.org/wikipedia/pt/8/8c/Pokemon_fanart.jpg</fanart>
     </item>
-</itens>
+</items>
