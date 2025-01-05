@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Gran Turismo: De Jogador a Corredor (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/qU60nhBRbKU23gIGrZi2CvUj6MQ.jpg" group-title="Filmes | Cinema",Gran Turismo: De Jogador a Corredor (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228362.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Freira 2 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg" group-title="Filmes | Cinema",A Freira 2 (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Patos! (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wXWnUhdnSuADRp9w7aAZNHx682v.jpg" group-title="Filmes | Cinema",Patos! (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aquaman 2: O Reino Perdido (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/ysHxydAZzfhc4kV5ae8IBbVG5gk.jpg" group-title="Filmes | Cinema",Aquaman 2: O Reino Perdido (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228391.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Jurassic Pet 2: The Lost Secret (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wxDG3w316i5bQ4vw4qDAVE7tAR9.jpg" group-title="Filmes | Cinema",The Adventures of Jurassic Pet 2: The Lost Secret (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228393.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Besouro Azul (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/y5sdkgO4IJMTnkjh9PG7kREPWrP.jpg" group-title="Filmes | Cinema",Besouro Azul (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hero Dog: The Journey Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/ybWtSFLVakBIVeAviZ6SsQKIuSv.jpg" group-title="Filmes | Cinema",Hero Dog: The Journey Home (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="巨鲨之夺命鲨滩 (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/hGGsyRi27b3Kf8pnVl93Y2JszFC.jpg" group-title="Filmes | Cinema",巨鲨之夺命鲨滩 (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ice 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w780/ovwa5I70Mh2owkEGZW8HBR1JMxf.jpg" group-title="Filmes | Cinema",Ice 2 (2020)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indiana Jones e A Relíquia do Destino (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/9EnfMH0nTPCna87Mh3G8Q6W2wze.jpg" group-title="Filmes | Cinema",Indiana Jones e A Relíquia do Destino (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Livro do Demônio (2022)" tvg-logo="https://image.tmdb.org/t/p/w780/fyPfhiIws7q2FdKJAxqeZy8OyBe.jpg" group-title="Filmes | Cinema",O Livro do Demônio (2022)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228478.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Missão: Impossível - Acerto de Contas Parte 1 (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/gbPUEuu2MGzbVen3tB1S48HpgDP.jpg" group-title="Filmes | Cinema",Missão: Impossível - Acerto de Contas Parte 1 (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Oppenheimer (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/1OsQJEoSXBjduuCvDOlRhoEUaHu.jpg" group-title="Filmes | Cinema",Oppenheimer (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Cavaleiros do Zodíaco - Saint Seiya: O Começo (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg" group-title="Filmes | Cinema",Os Cavaleiros do Zodíaco - Saint Seiya: O Começo (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Road to Damascus (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/kRwCVZeTuL1QQFX4LqKg1d8RK1k.jpg" group-title="Filmes | Cinema",Road to Damascus (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sour (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/8uRwvZ7Ik9jynpi2rLFWqaKZbqn.jpg" group-title="Filmes | Cinema",Sour (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228552.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Stay (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/clhGYEY7aLNVpBlRlW3N5Cc9PnS.jpg" group-title="Filmes | Cinema",Stay (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Adventures of Jurassic Pet 2: The Lost Secret (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/wxDG3w316i5bQ4vw4qDAVE7tAR9.jpg" group-title="Filmes | Cinema",The Adventures of Jurassic Pet 2: The Lost Secret (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Battle at Lake Changjin (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/b3BM9liGHm4nvzsDO3frDtiEC6P.jpg" group-title="Filmes | Cinema",The Battle at Lake Changjin (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Devil's Tail (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/8LKHfjfqmggsErt4YIPpyMxF0Ma.jpg" group-title="Filmes | Cinema",The Devil's Tail (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Immortal Wars: Resurgence (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/4SRmyADzYnCTfYlr80iHmB9wyay.jpg" group-title="Filmes | Cinema",The Immortal Wars: Resurgence (2019)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Resort (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/bXZUVJP8Fr3RId7SSsV4RXvjnIh.jpg" group-title="Filmes | Cinema",O Resort (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Tangle (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/MgSQpxc0S2lS0f167FlzfABzw6.jpg" group-title="Filmes | Cinema",The Tangle (2019)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jogo de Assassinato (2021)" tvg-logo="https://image.tmdb.org/t/p/w780/gQWv5l50ky5PgMLzfXR9XI6DDmI.jpg" group-title="Filmes | Cinema",Jogo de Assassinato (2021)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wings Over Everest - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/gQWv5l50ky5PgMLzfXR9XI6DDmI.jpg" group-title="Filmes | Cinema",Wings Over Everest - 2019
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228709.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Tangle (2019)" tvg-logo="https://image.tmdb.org/t/p/w780/MgSQpxc0S2lS0f167FlzfABzw6.jpg" group-title="Filmes | Cinema",The Tangle (2019)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wings Over Everest - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/MgSQpxc0S2lS0f167FlzfABzw6.jpg" group-title="Filmes | Cinema",Wings Over Everest - 2019
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wings Over Everest - 2019" tvg-logo="https://image.tmdb.org/t/p/w780/MgSQpxc0S2lS0f167FlzfABzw6.jpg" group-title="Filmes | Cinema",Wings Over Everest - 2019
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="John Wick 4: Baba Yaga (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="Filmes | Cinema",John Wick 4: Baba Yaga (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Velozes e Furiosos 10 - 2023" tvg-logo="https://image.tmdb.org/t/p/w780/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg" group-title="Filmes | Cinema",Velozes e Furiosos 10 - 2023
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)" tvg-logo="https://image.tmdb.org/t/p/w780/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg" group-title="Filmes | Cinema",A Pequena Sereia (2023)
+http://xc.tvdecasa.top:80/movie/BlackPlay/Blackplay8486@/10228809.mp4
