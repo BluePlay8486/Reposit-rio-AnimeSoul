@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pesquisa M3U</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; }
+        input { width: 80%; padding: 10px; margin: 10px; }
+        #resultados { margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <h2>Pesquisar Conteúdo</h2>
+    <input type="text" id="pesquisa" placeholder="Digite para pesquisar..." oninput="filtrarLista()">
+    <div id="resultados"></div><script>
+    const urlM3U = 'URL_DA_SUA_LISTA_M3U'; // Substitua pela URL da lista M3U
+    let canais = [];
+
+    async function carregarLista() {
+        const resposta = await fetch(urlM3U);
+        const texto = await resposta.text();
+        canais = texto.split("#EXTINF").slice(1).map(linha => {
+            const linhas = linha.split("\n");
+            return { nome: linhas[0].split(",")[1], url: linhas[1] };
+        });
+    }
+
+    function filtrarLista() {
+        const termo = document.getElementById('pesquisa').value.toLowerCase();
+        const resultados = canais.filter(c => c.nome.toLowerCase().includes(termo));
+        document.getElementById('resultados').innerHTML = resultados.map(c => `<p><a href="${c.url}" target="_blank">${c.nome}</a></p>`).join('');
+    }
+
+    carregarLista();
+</script>
+
+</body>
+</html>
