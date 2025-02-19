@@ -13,7 +13,7 @@
     <h2>Pesquisar Conteúdo</h2>
     <input type="text" id="pesquisa" placeholder="Digite para pesquisar..." oninput="filtrarLista()">
     <div id="resultados"></div><script>
-    const urlM3U = 'URL_DA_SUA_LISTA_M3U'; // Substitua pela URL da lista M3U
+    const urlM3U = 'https://xc.tvdecasa.top:80/get.php?username=BlackPlay&password=&type=m3u_plus&output=hls'; // Substitua pela URL da lista M3U
     let canais = [];
 
     async function carregarLista() {
